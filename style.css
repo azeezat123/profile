@@ -1,0 +1,122 @@
+.heading{
+  background-color: #D0BB94;
+  padding: 30px;
+}
+
+.introduction{
+padding: 60px; 
+margin-bottom: 70px;
+}
+
+img{
+  float: left;
+  border-radius: 10px;
+}
+
+h1{
+  text-align: center;
+  color: #6f4e37;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -20px;
+}
+
+pre{
+  color: #545454;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 90px;
+}
+
+.bio{
+  padding: 60px;
+}
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #545454;
+    text-align: left;
+    line-height: 5px;
+    list-style-type: none;
+    margin-top: -30px;
+    padding: 10px;
+    background-color: #D0BB94;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+.bottom{
+background-color: black;
+padding: 3px;
+}
+
+.form-control {
+  display: block;
+  border: thin;
+  width: 30%;
+  height: 10px;
+  padding: 5px;
+  margin: 5px;
+  background-color: #1b1e23;
+  color: white;
+  margin-bottom: 5px;
+}
+
+.form-message{
+  display: block;
+  padding: 10px;
+  margin-bottom: 5px;
+  width: 30%;
+  height: 30px;
+  background-color:#1b1e23;
+  border: thin;
+  color: white;
+}
+
+h3{
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.button{
+  background-color: white;
+  border-radius: 5px;
+  border: none;
+  color: #1b1e23;
+  font-size: 12px;
+  width: 7%;
+  padding: 5px;
+}
+
+.fa{
+    padding: 5px;
+    font-size: 10px;
+    width: 10px;
+    text-decoration: none;
+    margin: 5px 3px;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  
+.fa-instagram {
+    background: #125688;
+    color:white;
+  }
+
+  a:hover {
+    opacity: 0.7;
+  }
+
+  
